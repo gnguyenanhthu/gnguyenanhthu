@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-# Love gaming, coding and solving math problems
+👋 Hi, I’m Thu (Skylar), a software engineer passionate about writing scalable and maintainable code.
+
+💻 Skilled in Java, JavaScript, and React.
+
+🌱 Currently learning TypeScript and Machine Learning.
+
+🚴‍♂️ Outside of coding, I enjoy playing games and learning foreign languages!
 
 <!--
 **gnguyenanhthu/gnguyenanhthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
