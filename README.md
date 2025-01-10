@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Love gaming, coding and solving math problems
+
 <!--
 **gnguyenanhthu/gnguyenanhthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
